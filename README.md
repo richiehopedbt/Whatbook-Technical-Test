@@ -1,9 +1,9 @@
 ![](Assets/logo.png) 
 # Technical-Test (Android)
 
-
-![](Assets/feed.png)
-
+<p align="center">
+  <img src="Assets/feed.png"/>
+</p>
 
 
 ## Task
