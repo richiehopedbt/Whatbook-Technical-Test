@@ -1,6 +1,5 @@
 ![](Assets/logo.png) 
 # Technical-Test (Android)
-This is the repo for the technical test(Android)for Whatbook.
 
 
 ![](Assets/feed.png)
