@@ -2,7 +2,9 @@
 # Technical-Test (Android)
 This is the repo for the technical test(Android)for Whatbook.
 
+
 ![](Assets/feed.png)
+
 
 
 ## Task
@@ -15,7 +17,7 @@ You will need to make a Network request for the feed items to populate the table
 Please bear in mind that the request retrieves the first 10 'Feed' items and then gives the url for the subsequent page of items. You are to create a method of pulling this extra data on demand (when the table scrolls).
 You are to persist the data to the device so that offline browsing can occur.
 
-Network request URL is as follows:
+Network GET request URL is as follows:
 
 ```java
 http://ec2-34-253-186-162.eu-west-1.compute.amazonaws.com/api/v1/feed/?
@@ -26,7 +28,7 @@ http header key values
 Key: Authorization
 Value: Token 344dcc947ac5c258e4354bbf7182a70ed8ac4904
 ```
-The request returns JSON, this needs to parsed, saved to disk and then displayed in order (using the 'created_at' value from the JSON) of most recent at the top of the feed.
+The request returns JSON, this needs to parsed, saved to disk and then displayed in the correct order (using the 'created_at' value from the JSON) of most recent items at the top of the feed.
 
 ## Demonstrate
 
