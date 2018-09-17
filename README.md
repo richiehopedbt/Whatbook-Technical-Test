@@ -1,5 +1,5 @@
-![](Assets/logo.png)
-# Whatbook-Technical-Test (Android)
+![](Assets/logo.png) 
+# Technical-Test (Android)
 This is the repo for the technical test(Android)for Whatbook.
 
 ![](Assets/feed.png)
@@ -26,7 +26,7 @@ http header key values
 Key: Authorization
 Value: Token 344dcc947ac5c258e4354bbf7182a70ed8ac4904
 ```
-The requst returns JSON this needs to parsed, saved to disk and then displayed in order (using the 'created_at' value from the JSON) of most recent at the top of the feed.
+The request returns JSON, this needs to parsed, saved to disk and then displayed in order (using the 'created_at' value from the JSON) of most recent at the top of the feed.
 
 ## Demonstrate
 
