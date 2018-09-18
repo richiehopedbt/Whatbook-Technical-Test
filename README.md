@@ -48,4 +48,4 @@ We really would like to see Kotlin used so please try.
 
 ## Supply
 
-On completion of the task you will need to forward all sourse code and an .apk file to the email address provided, along with an explanation and rational behind the decisions you made whilst developing this project.
+On completion of the task you will need to forward all sourse code (in zip file) and an .apk file to the email address provided, along with an explanation and rational behind the decisions you made whilst developing this project.
