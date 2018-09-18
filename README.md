@@ -45,3 +45,7 @@ Because Kotlin has several features which even modern versions of Java lack.
 
 However, if Kotlin is a language you are not yet familiar with please use an alternative but explain the reasons for doing so.
 We really would like to see Kotlin used so please try.
+
+## Supply
+
+On completion of the task you will need to forward all sourse code and an .apk file to the email address provided, along with an explanation and rational behind the decisions you made whilst developing this project.
